@@ -17,10 +17,10 @@ Projekt nadajnika i odbiornika implementującego protokół [X10](http://en.wiki
 
 ### Zdjęcie prototypu
 
-<img src="http://wiki.macbre.net/images/plc/board.jpg" />
+![](http://s3.macbre.net/plc/board.jpg)
 
 ### Linki
 
-- [Dokumentacja](http://wiki.macbre.net/images/plc/dokumentacja_plc.pdf)
-- [Schemat bloku nadawczego i zasilacza](http://wiki.macbre.net/images/plc/schemat.png)
-- [Schemat części z uC](http://wiki.macbre.net/images/plc/schemat_cpu.png)
+- [Dokumentacja](http://s3.macbre.net/plc/dokumentacja_plc.pdf)
+- [Schemat bloku nadawczego i zasilacza](http://s3.macbre.net/plc/schemat.png)
+- [Schemat części z uC](http://s3.macbre.net/plc/schemat_cpu.png)
